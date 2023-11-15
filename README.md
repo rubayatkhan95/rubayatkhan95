@@ -98,13 +98,19 @@ I'm Rubayat Shusmita Khan,a mobile app developer working with the app team. I sp
 - **Version Control:** GitHub, GitLab, Team Foundation Server (TFS)
 - **Problem Solving Skills:** Solved more than 100 problems cumulatively in HackerRank, URI Online Judge, Codeforces Online Judge, HackerEarth, and other online judges.
 
+## Publications
+- [DETECTING FAKE NEWS USING MACHINE LEARNING AND PREVENT IT FROM SPREADING ON
+SOCIAL MEDIA](https://link.springer.com/chapter/10.1007/978-3-031-19958-5_41) - ML, Linear regression, Decision tree, Naive Bayes algorithm, Random forest
+algorithm.
+
+
 ## Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/rubayat-shusmita-khan/)
 - [Hackerrank](https://www.hackerrank.com/profile/khanrubayat27)
 - [Leetcode](https://leetcode.com/khanrubayat27/)
 - [Github](https://github.com/rubayatkhan95)
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
 
 
 
