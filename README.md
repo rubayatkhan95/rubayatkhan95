@@ -3,9 +3,15 @@
 I'm Rubayat Shusmita Khan,a mobile app developer working with the app team. I specialize in building cross-platform applications using React Native and Flutter.
 
 ## Work Experience
+### [Polysurance AI](https://www.polysurance.com/)
+- **Position:** Senior Software Engineer
+- **Duration:** November 2024 – Present
+- **Responsibilities:**
+  - Develop mobile applications for Android using React Native frameworks.
+
 ### [Truck Lagbe Ltd.](https://trucklagbe.com/shifting?utm_term=truck%20rental%20near%20me&utm_campaign=Homeshifting%20Lead%20Search%20Ad%20Sep%202020&utm_source=adwords&utm_medium=ppc&hsa_acc=2281232544&hsa_cam=11137540706&hsa_grp=109602119672&hsa_ad=515493640287&hsa_src=g&hsa_tgt=kwd-34972844420&hsa_kw=truck%20rental%20near%20me&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiA9dGqBhAqEiwAmRpTC_EzohRL1iwqxZE_bXh0YJ63kH9sL-eENi2veTTYQbvugb6EwAdDyxoCfhAQAvD_BwE)
 - **Position:** Senior Software Engineer
-- **Duration:** July 2023 – Present
+- **Duration:** July 2023 – November 2024
 - **Responsibilities:**
   - Develop mobile applications for Android using Flutter and React Native frameworks.
   - Integrate API services into mobile applications to enhance functionality.
