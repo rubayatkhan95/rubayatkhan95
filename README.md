@@ -97,7 +97,7 @@ I'm Rubayat Shusmita Khan,a mobile app developer working with the app team. I sp
 - **Frameworks:** React Native, Flutter, AngularJS, ASP.NET MVC
 - **State Management:** Redux Toolkit
 - **Navigation:** React Navigation
-- **Programming Languages:** Dart, C Sharp, C, C++, Java, Object-Oriented Programming
+- **Programming Languages:** Dart, C Sharp, Java, Object-Oriented Programming
 - **Web Technologies:** HTML5, CSS3, JavaScript, PHP, JSON
 - **User Interface:** Responsive UI Design
 - **API Service:** Integration
