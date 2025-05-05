@@ -3,11 +3,28 @@
 I'm Rubayat Shusmita Khan,a mobile app developer working with the app team. I specialize in building cross-platform applications using React Native and Flutter.
 
 ## Work Experience
-### [Polysurance AI](https://www.polysurance.com/)
+### [Rooya](https://www.rooya.ai/)
 - **Position:** Senior Software Engineer
 - **Duration:** November 2024 – Present
 - **Responsibilities:**
-  - Develop mobile applications for Android using React Native frameworks.
+  - Developing and maintaining three mobile applications - Rooya (for Fleets), Polyfit, and Polydrive — for both iOS and Android using React Native.
+  - Managing end-to-end app releases on the App Store and Google Play Store.
+  - Implemented live streaming integration within the apps.
+  - Developed audio recording features on the mobile side.
+  - Built real-time chat functionality using Socket.IO.
+  - Integrated SSE (Server-Sent Events) channel communication for real-time event updates.
+  - Worked on Firebase Cloud Messaging (FCM) for push notifications across platforms.
+  - Integrated microservices-based APIs for efficient and seamless backend communication.
+  - Collaborating with cross-functional teams to improve performance, security, and scalability across all applications.
+- **Playstore Links**
+  - [Rooya - For Fleets](https://play.google.com/store/apps/details?id=com.rooya&pcampaignid=web_share)
+  - [PolyDrive](https://play.google.com/store/apps/details?id=com.polydrive&pcampaignid=web_share)
+  - [PolyFit](https://play.google.com/store/apps/details?id=com.polyfit&pcampaignid=web_share)
+- **App Store Links**
+  - [Rooya - For Fleets](https://apps.apple.com/us/app/rooya-for-fleets/id6670748863)
+  - [PolyDrive](https://apps.apple.com/us/app/polydrive/id6480055464)
+  - [PolyFit](https://apps.apple.com/us/app/polyfit/id6503609397)
+
 
 ### [Truck Lagbe Ltd.](https://trucklagbe.com/shifting?utm_term=truck%20rental%20near%20me&utm_campaign=Homeshifting%20Lead%20Search%20Ad%20Sep%202020&utm_source=adwords&utm_medium=ppc&hsa_acc=2281232544&hsa_cam=11137540706&hsa_grp=109602119672&hsa_ad=515493640287&hsa_src=g&hsa_tgt=kwd-34972844420&hsa_kw=truck%20rental%20near%20me&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiA9dGqBhAqEiwAmRpTC_EzohRL1iwqxZE_bXh0YJ63kH9sL-eENi2veTTYQbvugb6EwAdDyxoCfhAQAvD_BwE)
 - **Position:** Senior Software Engineer
@@ -93,24 +110,37 @@ I'm Rubayat Shusmita Khan,a mobile app developer working with the app team. I sp
 
 
 ## Skills
+#### 📱 Mobile Development
+- **React Native** (CLI & Expo)
+- **Flutter**
+- **Redux Toolkit**, **Redux Thunk**, **Redux**
+- **React Navigation**
+- **Firebase**, **Socket.io**
+- **Axios**
 
-- **Frameworks:** React Native, Flutter, AngularJS, ASP.NET MVC
-- **State Management:** Redux Toolkit
-- **Navigation:** React Navigation
-- **Programming Languages:** Dart, C Sharp, Java, Object-Oriented Programming
-- **Web Technologies:** HTML5, CSS3, JavaScript, PHP, JSON
-- **User Interface:** Responsive UI Design
-- **API Service:** Integration
-- **Development Tools:** Android Studio, Visual Studio Code, Sublime Text, Visual Studio 2017, Microsoft SQL Server Management Studio, Code::Blocks, Postman, MySQL Workbench
-- **Databases:** MySQL, MongoDB
-- **Version Control:** GitHub, GitLab, Team Foundation Server (TFS)
-- **Problem Solving Skills:** Solved more than 100 problems cumulatively in HackerRank, URI Online Judge, Codeforces Online Judge, HackerEarth, and other online judges.
+#### 💻 Web Development
+- **AngularJS**, **ASP.NET MVC**
+- **HTML5**, **CSS3**, **JavaScript**, **PHP**, **JSON**
+- **Responsive UI Design**
 
+#### 🧠 Programming Languages
+- **TypeScript**, **Dart**, **C#**, **Java**
+- **Object-Oriented Programming (OOP)**
+
+#### 🗃️ Databases
+- **MySQL**, **MongoDB**
+
+#### 🧰 Development Tools
+- Android Studio, Visual Studio Code, Sublime Text, Visual Studio 2017  
+- Postman, MySQL Workbench, Microsoft SQL Server Management Studio, Code::Blocks
+
+#### 🔧 Version Control & CI/CD
+- **GitHub**, **GitLab**, **Team Foundation Server (TFS)**
+- 
 ## Publications
 - [DETECTING FAKE NEWS USING MACHINE LEARNING AND PREVENT IT FROM SPREADING ON
 SOCIAL MEDIA](https://link.springer.com/chapter/10.1007/978-3-031-19958-5_41) - ML, Linear regression, Decision tree, Naive Bayes algorithm, Random forest
 algorithm.
-
 
 ## Let's Connect!
 
